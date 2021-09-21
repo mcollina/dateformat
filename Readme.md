@@ -2,7 +2,8 @@
 
 A node.js package for Steven Levithan's excellent [dateFormat()][dateformat] function.
 
-[![Build Status](https://travis-ci.org/felixge/node-dateformat.svg)](https://travis-ci.org/felixge/node-dateformat)
+This module was forked from https://github.com/felixge/node-dateformat to avoid a CJS to ESM migration.
+This fork will be maintained as long as it is necessary.
 
 ## Modifications
 
