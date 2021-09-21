@@ -17,7 +17,7 @@
   "license": "MIT",
   "main": "lib/dateformat",
   "devDependencies": {
-    "@babel/cli": "^7.12.10",
+    "@babel/cli": "^7.15.7",
     "@babel/core": "^7.12.10",
     "@babel/preset-env": "^7.12.11",
     "mocha": "^8.2.1",
