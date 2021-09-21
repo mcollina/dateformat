@@ -14,7 +14,7 @@ This fork will be maintained as long as it is necessary.
 ## Installation
 
 ```bash
-$ npm install dateformat
+$ npm install @matteo.collina/dateformat
 $ dateformat --help
 ```
 
@@ -23,7 +23,7 @@ $ dateformat --help
 As taken from Steven's post, modified to match the Modifications listed above:
 
 ```js
-var dateFormat = require("dateformat");
+var dateFormat = require("@matteo.collina/dateformat");
 var now = new Date();
 
 // Basic usage

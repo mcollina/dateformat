@@ -1,5 +1,5 @@
 {
-  "name": "@matteocollina/dateformat",
+  "name": "@matteo.collina/dateformat",
   "description": "A node.js package for Steven Levithan's excellent dateFormat() function. A commonjs module.",
   "maintainers": [
     "Matteo Collina <hello@matteocollina.com>"
