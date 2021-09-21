@@ -14,8 +14,6 @@ vendor
 build
 dest
 dist
-lib
-lib-cov
 coverage
 nbproject
 cache

@@ -13,7 +13,7 @@
     "Jon Schlinkert (https://github.com/jonschlinkert)",
     "Matteo Collina <hello@matteocollina.com>"
   ],
-  "version": "4.5.1",
+  "version": "5.0.0",
   "license": "MIT",
   "main": "lib/dateformat",
   "devDependencies": {
