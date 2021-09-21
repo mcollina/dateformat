@@ -1,8 +1,8 @@
 {
-  "name": "dateformat",
-  "description": "A node.js package for Steven Levithan's excellent dateFormat() function.",
+  "name": "@matteocollina/dateformat",
+  "description": "A node.js package for Steven Levithan's excellent dateFormat() function. A commonjs module",
   "maintainers": [
-    "Felix Geisendörfer <felix@debuggable.com>"
+    "Matteo Collina <hello@matteocollina.com>"
   ],
   "homepage": "https://github.com/felixge/node-dateformat",
   "author": "Steven Levithan",
@@ -10,7 +10,8 @@
     "Steven Levithan",
     "Felix Geisendörfer <felix@debuggable.com>",
     "Christoph Tavan <dev@tavan.de>",
-    "Jon Schlinkert (https://github.com/jonschlinkert)"
+    "Jon Schlinkert (https://github.com/jonschlinkert)",
+    "Matteo Collina <hello@matteocollina.com>"
   ],
   "version": "4.5.1",
   "license": "MIT",
