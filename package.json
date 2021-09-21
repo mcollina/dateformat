@@ -18,7 +18,7 @@
   "main": "lib/dateformat",
   "devDependencies": {
     "@babel/cli": "^7.12.10",
-    "@babel/core": "^7.12.10",
+    "@babel/core": "^7.15.5",
     "@babel/preset-env": "^7.12.11",
     "mocha": "^8.2.1",
     "uglify-js": "^3.12.5"
