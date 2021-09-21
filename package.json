@@ -21,7 +21,7 @@
     "@babel/core": "^7.12.10",
     "@babel/preset-env": "^7.12.11",
     "mocha": "^8.2.1",
-    "uglify-js": "^3.12.5"
+    "uglify-js": "^3.14.2"
   },
   "engines": {
     "node": "*"
