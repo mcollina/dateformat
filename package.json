@@ -17,7 +17,7 @@
   "license": "MIT",
   "main": "lib/dateformat",
   "devDependencies": {
-    "mocha": "^9.0.0"
+    "mocha": "^10.1.0"
   },
   "scripts": {
     "test": "mocha",
